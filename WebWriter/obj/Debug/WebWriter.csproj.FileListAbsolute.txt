@@ -1,0 +1,4 @@
+c:\users\bnardone\documents\visual studio 2015\Projects\WebWriter\WebWriter\bin\Debug\WebWriter.dll
+c:\users\bnardone\documents\visual studio 2015\Projects\WebWriter\WebWriter\bin\Debug\WebWriter.pdb
+c:\users\bnardone\documents\visual studio 2015\Projects\WebWriter\WebWriter\obj\Debug\WebWriter.dll
+c:\users\bnardone\documents\visual studio 2015\Projects\WebWriter\WebWriter\obj\Debug\WebWriter.pdb

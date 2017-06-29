@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>concisehtmltextwriter</id>
+    <version>1.0.0</version>
+    <description>A fast and light html renderer for use in commandlines/services/ect</description>
+    <authors>Brent Nardone</authors>
+    <title>Web Writer</title>
+    <tags>io html renderer render web</tags>
+  </metadata>
+</package>
